@@ -35,7 +35,7 @@ int main() {
     char lagi;
 	
 	cout << "+----------------------------------------------------------------+\n";
-	cout << "|      Aplikasi Pembayaran Uang Kuliah Universitas Katolik Santo Thomas Medan    |\n";
+	cout << "|      Aplikasi Pembayaran Uang Kuliah Universitas Politeknik Negeri Medan  |\n";
 	cout << "+----------------------------------------------------------------+\n";
 	
     do {
